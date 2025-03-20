@@ -10,7 +10,7 @@ Hello, world! I'm Ayush Kumar Choudhary, a 19-year-old second-year undergraduate
 - 🤝 **Lover of Collaboration:** Whether it's team projects, hackathons, or brainstorming sessions.
 
 ## 💻 Skills
-- Programming: C, C++, Java
+- Programming: C, C++, Java, Python, R
 - Web Development: HTML, CSS
 - Databases: MongoDB, MySQL, PostgreSQL
 - Tools: Power BI, Git
